@@ -2,7 +2,7 @@
 
 #### have a .env file in salesforce-api folder like,
 ````
-```
+
 PORT=8080
 loginUrl='https://login.salesforce.com'
 sandboxUrl='https://test.salesforce.com'
@@ -11,7 +11,7 @@ consumerKey='clientID'
 consumerSecret='secretKey'
 apiVersion='53.0'
 
-```
+
 ````
 
 that would be it, run yarn commands on both and yarn run start to run the projects! thats it!!!
